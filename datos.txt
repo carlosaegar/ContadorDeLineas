@@ -1,0 +1,3 @@
+hola este es el fichero datos
+del ejercicio 24 que lo usamos para contar las 
+líneas que tengan una palabra concreta
